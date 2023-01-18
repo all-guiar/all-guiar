@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Hello there,+My+name+is+Lucca+Aguiar;I'm+24+years+old;I+am+currently+a+student+of+ASD;Welcome!!+:%29&duration=2500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+My+name+is+Lucca+Aguiar;I'm+24+years+old;I+am+currently+a+student+of+ASD;Welcome!!+:%29&duration=2500)](https://git.io/typing-svg)
 
 ## Heey! I'm Lucca Aguiar 👾
 #### 📚 
@@ -30,4 +30,4 @@ I've already gone through some languages like Python and C, but I had to choose 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target="_blank")](https://www.linkedin.com/in/lucas-aguiar-4a1524241/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
